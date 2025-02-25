@@ -7,7 +7,7 @@ from random import randint
 import random
 
 
-image_file = st.file_uploader(label="Upload your picture to initiate your birthday gift",
+image_file = st.file_uploader(label="inging, i have thought of 5 nice things to say to you. so when you're ready, upload any picture of yours to initiate",
                                  type=["png", "jpeg", "jpg"])
 
 m = st.markdown("""
