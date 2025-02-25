@@ -52,9 +52,9 @@ if image_file is not None:
 
             compliments = [
                 "Even if you were cloned, you'd still be one of a kind. And the better looking one. 🐶",
-                "Your borat accent is pretty decent",
+                "If you were a triangle, you'd be a-cute one 😉",
                 "If you were a fruit, you'd be a Fine-Apple 🍍😍",
-                "I like how you roll your Rrrrrr's. it's cute. ",
+                "I honestly really like how you roll your Rrrrrr's  ",
                 "Are you a beaver, because damn. 😏"
             ]
 
