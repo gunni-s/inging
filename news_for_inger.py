@@ -65,13 +65,13 @@ if image_file is not None:
             if 'compliment_index' not in st.session_state:
                 st.session_state.compliment_index = 0
 
-            if st.button(" Ruin me with this news 😫"):
+            if st.button(" Ruin me 😫"):
                 if st.session_state.compliment_index < len(compliments):
                     st.subheader(compliments[st.session_state.compliment_index])
                     st.session_state.compliment_index += 1
                     compliments_left = len(compliments) - st.session_state.compliment_index
                     if compliments_left > 0:
-                        st.subheader(f" hit that NEWS button again bb, there's more....")
+                        st.subheader(f" hit that button again bb, there's more....")
                 # else:
                 #     st.subheader("That's all I have for now!")
                 #     st.session_state.compliment_index = 0  # Reset index after all compliments are shown
