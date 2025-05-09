@@ -53,11 +53,9 @@ if image_file is not None:
             compliments = [
                 "I'm coming to see you INGER...... NOT (in borats voice)",
                 "....NOT.......(get it? because i'm coming to see you... not not.... which means I am coming to see you) WAIT HOLD UP then hows this bad news? GOOD QUESTION",
-                "because i'm bringing cheese, bad dad jokes, and a whole lot of annoying me to your doorstep.... such as.....",
-                "If you were a dessert, you’d be the one I tell myself I’ll only have a bite of and then finish the whole thing.",
+                "because i'm bringing cheese, bad dad jokes, and a whole lot of annoying me to your doorstep.... such as..... If you were a dessert, you’d be the one I tell myself I’ll only have a bite of and then finish the whole thing.",
                 "Are you made of copper and tellurium? Because you’re Cu-Te 😘",
-                "YEP, its 'appening innit. I can't wait to fight with you in public.... (win the argument - maybe illl let you win one) and then",
-                " kiss and make up and be like teehee and then share the beer and then cuddle and hug, and some more kisses ",
+                "YEP, its 'appening innit. I can't wait to fight with you in public.... (win the argument - maybe illl let you win one) and then kiss and make up and be like teehee and then share the beer and then cuddle and hug, and some more kisses ",
                 
             ]
 
